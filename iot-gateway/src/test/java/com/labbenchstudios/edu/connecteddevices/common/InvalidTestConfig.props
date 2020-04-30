@@ -1,0 +1,26 @@
+# A bunch of meaningless words...
+
+=
+noValueKey
+noCategoryKey  = Some Value
+
+= Some Other Value
+
+[ubidots.cloud]
+apiKey         = Not Set = Another Value
+userNameToken  = Not Set
+authToken      = Not Set
+protocol       = ssl
+host           = things.ubidots.com
+port           = 8883
+useWebAccess   = True
+baseUrl        = https://things.ubidots.com/api/v1.6/
+certFile       = ubidots_cert.pem
+configPath     = config
+
+[device]
+enableEmulator = True
+pollCycleSecs  = 60
+nominalTemp    = 20
+
+[{ value: key }]
