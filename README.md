@@ -1,7 +1,7 @@
 # Connected-Devices
 Homework and final Project of Connected Devices
-- iot-device: Python
-- iot-gateway: Java
+#### iot-device: Python
+#### iot-gateway: Java
 
 ### Project 
 
